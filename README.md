@@ -1,6 +1,6 @@
 
 
-### PLANO DE TESTE - TODOMVC
+## PLANO DE TESTE - TODOMVC
 
 
 | **Analista de teste responsável** | Laís Medrado                                                         |
