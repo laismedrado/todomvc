@@ -11,7 +11,7 @@
 | ID | Critério de Aceite | Prioridade | Severidade | Resultado Esperado | Resultado Obtido | Defeitos | Status |
 |----|---------------------|------------|------------|--------------------|------------------|----------|--------|
 | 1  | DADO que insiro o item a ser adicionado a lista <br>Quando clico em enter | Alta | - | ENTÃO o item deve ser exibido na lista | <img src="https://github.com/laismedrado/todomvc/assets/31759644/3d51dbd5-b2ef-4a31-af01-61cddaa868d5" width="350" height="150"  /> | - | 😀 |
-| 2  | DADO que possuo ao menos um item na lista | Baixo | - | ENTÃO no lado esquerdo do item deve ser exibido um ícone para selecionar sua conclusão | - | - | 😀 |
+| 2  | DADO que possuo ao menos um item na lista | Baixo | - | ENTÃO no lado esquerdo do item deve ser exibido um ícone para selecionar sua conclusão | <img src="https://github.com/laismedrado/APIIBGE/assets/31759644/9714a860-122c-489d-b783-12567e53ebb5" width="350" height="150"  /> | - | 😀 |
 | 3  | DADO que possuo ao menos um item na lista | Baixo | - | ENTÃO no lado esquerdo do item deve ser exibido um ícone para selecionar sua conclusão | - | - | 😀 |
 | 4  | DADO que possuo um item na lista QUANDO adiciono o mouse em cima do item | Baixo | - | ENTÃO deve ser exibido um X vermelho para exclusão do item | - | - | 😀 |
 | 5  | DADO que a lista de itens foi criada | Alta | - | ENTÃO um rodapé deve ser exibido ao final desta lista | - | - | 😀 |
