@@ -5,6 +5,7 @@
 | Protótipo | [https://todomvc.com/examples/react/#/](https://todomvc.com/examples/react/#/) |
 | Pré condição | Nenhuma |
 | Dados necessários | Nenhum dado necessário |
+| Requisitos | Tela inicial |
 
 ### Requisitos: Tela inicial
 

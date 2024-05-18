@@ -5,8 +5,8 @@
 | Protótipo | [https://todomvc.com/examples/react/#/](https://todomvc.com/examples/react/#/) |
 | Pré condição | Nenhuma |
 | Dados necessários | Nenhum |
+| Requisitos | Adicionar ítens |
 
-### Requisitos: Adicionar itens
 
 | ID | Critério de Aceite | Prioridade | Severidade | Resultado Esperado | Resultado Obtido | Defeitos | Status |
 |----|---------------------|------------|------------|--------------------|------------------|----------|--------|

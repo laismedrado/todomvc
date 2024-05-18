@@ -3,10 +3,9 @@
 | Subtipo de Teste | Caso de Teste |
 | Objetivo do teste | Validar a funcionalidade filtrar todos |
 | Protótipo | [https://todomvc.com/examples/react/#/](https://todomvc.com/examples/react/#/) |
-| Pré condição | Ter pelo menos 2 item na lista e sendo pelo menos um como concluído e outro para fazer |
+| Pré condição | Ter pelo menos 2 itens na lista a fazer |
 | Dados necessários | Inserir tarefas a serem feitas |
-
-### Requisitos: Conclusão de ítens - lote
+| Requisitos | Conclusão de ítens - lote |
 
 | ID | Critério de Aceite | Prioridade | Severidade | Resultado Esperado | Resultado Obtido | Defeitos | Status |
 |----|---------------------|------------|------------|--------------------|------------------|----------|--------|
