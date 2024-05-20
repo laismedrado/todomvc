@@ -4,7 +4,7 @@ Eu  como usuário da aplicação
 Gostaria de ver todas as minhas tarefas do dia
 Porque assim consigo visualizar as realizadas e as que estão para serem feitas
 
-  Background:  acesso a URL "https://todomvc.com/examples/react/#/"
+  Background:acesso o site da aplicação pela URL "https://todomvc.com/examples/typescript-react/#/"
   Given tenho pelo menos 2 itens na lista, sendo um concluído e outro para fazer
   When clico em filtrar todos "All"
 

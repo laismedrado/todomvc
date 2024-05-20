@@ -6,7 +6,7 @@ Feature: Adicionar itens à lista de tarefas
   Porque assim consigo iniciar minha lista de tarefas
 
   Scenario: Verificar disponibilidade do campo de input e mensagem inicial
-    Given que acesso a URL "https://todomvc.com/examples/typescript-react/#/"
+    Given que acesso o site da aplicação pela URL "https://todomvc.com/examples/typescript-react/#/"
     And que me encontro na tela inicial
     When a tela é carregada
     Then o campo de input está visível

@@ -3,7 +3,7 @@ Feature: Validar filtro - ativos
   Gostaria de visualizar as minhas tarefas que estão para serem feitas
   Porque assim tenho controle do que precisa ser realizado
 
-  Background: acesso a URL "https://todomvc.com/examples/react/#/"
+  Background: acesso ao site da aplicação pela URL "https://todomvc.com/examples/typescript-react/#/"
   Given  que eu tenho pelo menos 2 itens na lista, sendo um concluído e outro para fazer
   When eu clico em filtrar itens ativos "Active"
 

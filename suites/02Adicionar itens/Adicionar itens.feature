@@ -4,8 +4,7 @@ Feature: Adicionar ítens
  Gostaria de criar a minha lista
  Porque assim consigo saber o que preciso fazer e o que já foi feito
 
-  Background:
-    DADO que acesso a URL "https://todomvc.com/examples/react/#/"
+  Background: acesso ao site da aplicação pela URL "https://todomvc.com/examples/typescript-react/#/"
 
   Scenario: Inclusão de itens na lista
     Given que digito o nome de um ítem no input 

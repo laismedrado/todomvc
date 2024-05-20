@@ -4,8 +4,7 @@ Eu como usuário da aplicação
 Gostaria de visualizar as minhas tarefas concluídas
 Porque assim tenho controle dos itens que já foram feitos
 
-  Background:
-    Given que eu acesso a URL "https://todomvc.com/examples/react/#/"
+  Background: acesso ao site da aplicação pela URL "https://todomvc.com/examples/typescript-react/#/"
     And que eu tenho pelo menos 2 itens na lista, sendo um concluído e outro para fazer
     When eu clico em filtrar itens concluídos "Completed"
 
