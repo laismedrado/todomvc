@@ -9,4 +9,4 @@
                           
 | **ID** | **Critério de Aceite** | **Prioridade** | **Severidade** | **Comportamento Atual** | **Status** |
 |--------|-------------------------|----------------|----------------|------------------------|------------|
-| **1**  | Dado que acesso a aplicação <br> E coloco ítens na lista  <br>Quando tento adicionar mais um item com um nome que já existe na lista | | Baixa | Então a aplicação deve exibir uma mensagem de aviso <br>e não adicionar o item duplicado à lista | À implementar |
+| **1**  | Dado que acesso a aplicação <br> E coloco ítens na lista  <br>Quando tento adicionar mais um item com um nome que já existe na lista | | Baixa | Então a aplicação deve exibir uma mensagem de aviso <br>E não adicionar o item duplicado à lista | À implementar |
