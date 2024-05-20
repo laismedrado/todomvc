@@ -6,7 +6,7 @@
 | **Analista de teste responsável** | Laís Medrado                                                         |
 |:------------------------------------|:-----------------------------------------------------------------------|
 | **Data de início**                 | 12/05/2024                                                            |
-| **Data de fim**                    | 00/00/2024                                                            |
+| **Data de fim**                    | 20/05/2024                                                            |
 | **Prioridade**                     | Alta                                                                  |
 | **Severidade**                     | Alta                                                                  |
 | **Categoria do Teste**             | Funcional                                                             |
